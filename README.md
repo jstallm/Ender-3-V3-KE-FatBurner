@@ -24,26 +24,34 @@ From: https://www.printables.com/model/887597-fatburner-ender-3-v3-ke-dual-5015-
 - Bases + Ducts: PETG
 - Covers: PLA or PETG
 
-## Parts to Buy (Amazon links)
+## Parts to Buy (Amazon)
 
-**Essential:**
-- **2× 5015 24V Blower Fans** (Sunon style recommended)
-  → [Amazon - Sunon 5015 24V (pair options)](https://www.amazon.com/s?k=sunon+5015+24v)
-- **1× 4020 24V Hotend Fan** (Sunon Maglev preferred)
-  → [Amazon - Sunon 4020 24V](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX)
-- **8× M3×20mm Flat Head / Countersunk Screws**
-  → [Amazon - M3x20 Flat Head Screws](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64)
+**Essential Fans:**
+- **2× 5015 24V Blower Fans** (Sunon recommended)
+  → Search Amazon: [Sunon 5015 24V](https://www.amazon.com/s?k=sunon+5015+24v) (~$12-20 for pair)
+- **1× 4020 24V Hotend Fan** (Sunon Maglev preferred for quiet)
+  → [Sunon Maglev 4020 24V on Amazon](https://www.amazon.com/s?k=sunon+maglev+4020+24v) (~$8-12)
+- **8× M3×20mm Flat Head Screws**
+  → [M3x20 Flat Head Screws (Amazon)](https://www.amazon.com/s?k=m3x20+flat+head+screws) (~$6-9 for pack)
 
-**Optional:**
-- JST 1.25mm connectors (for clean wiring)
-  → [Amazon - JST 1.25 Connectors](https://www.amazon.com/Connectors-1-25MM-Female-Connector-Cables/dp/B073WPQLVX)
+**Optional:** JST 1.25 connectors
 
-**Note:** Prices fluctuate. Search for "Sunon 5015 24V" on Amazon for current best options. Prefer double ball bearing or Maglev versions for quieter operation.
+## Tools Recommended (Amazon links)
+You will need these tools for the install:
 
-## Tools Needed
-- Soldering iron (or wire strippers + heat shrink)
-- 2.5mm hex key
-- Small Phillips screwdriver
+- **Soldering Iron** (recommended for best wiring)
+  → [60W Adjustable Soldering Iron Kit](https://www.amazon.com/s?k=60w+adjustable+soldering+iron+kit) (~$10-18)
+
+- **Alternative to soldering**: Wire strippers + Heat Shrink Tubing
+  → [Wire Stripper + Heat Shrink Kit](https://www.amazon.com/s?k=wire+stripper+heat+shrink+tubing+kit) (~$12-15)
+
+- **2.5mm Hex Key / Allen Wrench**
+  → [2.5mm Hex Key Set](https://www.amazon.com/s?k=2.5mm+hex+key+set) (~$5-10)
+
+- **Small/Precision Phillips Screwdriver**
+  → [Precision Phillips Screwdriver Set](https://www.amazon.com/s?k=precision+phillips+screwdriver+set) (~$8-15)
+
+**Note:** Prices are approximate and can change. Search the links above for current pricing and Prime shipping options.
 
 ## Links
 - Printables Model: https://www.printables.com/model/887597
