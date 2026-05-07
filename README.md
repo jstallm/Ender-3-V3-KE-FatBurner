@@ -24,11 +24,21 @@ From: https://www.printables.com/model/887597-fatburner-ender-3-v3-ke-dual-5015-
 - Bases + Ducts: PETG
 - Covers: PLA or PETG
 
-## Parts to Buy
-- 2× 5015 24V blower fans (Sunon recommended)
-- 1× 4020 24V hotend fan (Sunon Maglev preferred for quietest operation)
-- 8× M3×20mm flat head screws
-- Optional: JST 1.25 connectors
+## Parts to Buy (Amazon links)
+
+**Essential:**
+- **2× 5015 24V Blower Fans** (Sunon style recommended)
+  → [Amazon - Sunon 5015 24V (pair options)](https://www.amazon.com/s?k=sunon+5015+24v)
+- **1× 4020 24V Hotend Fan** (Sunon Maglev preferred)
+  → [Amazon - Sunon 4020 24V](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX)
+- **8× M3×20mm Flat Head / Countersunk Screws**
+  → [Amazon - M3x20 Flat Head Screws](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64)
+
+**Optional:**
+- JST 1.25mm connectors (for clean wiring)
+  → [Amazon - JST 1.25 Connectors](https://www.amazon.com/Connectors-1-25MM-Female-Connector-Cables/dp/B073WPQLVX)
+
+**Note:** Prices fluctuate. Search for "Sunon 5015 24V" on Amazon for current best options. Prefer double ball bearing or Maglev versions for quieter operation.
 
 ## Tools Needed
 - Soldering iron (or wire strippers + heat shrink)
@@ -44,5 +54,4 @@ From: https://www.printables.com/model/887597-fatburner-ender-3-v3-ke-dual-5015-
 - Re-run input shaping after install
 
 ---
-
 Last updated: May 2026
