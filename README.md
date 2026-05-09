@@ -22,28 +22,22 @@ From: [FatBurner on Printables](https://www.printables.com/model/887597)
 
 **Print Settings:** Bases & Ducts in PETG, Covers in PLA/PETG.
 
-## Shopping List (Best Prices - AliExpress + Amazon)
+## Shopping List - Best Prices (AliExpress recommended for value)
 
 ### Fans
+- **5015 24V Blower Fans** (need 2) – Mellow / Sunon-style (best value)  
+  [AliExpress Direct](https://www.aliexpress.com/item/4000865202504.html) — ~$4–6 each  
+  Alternative: [Sunon original style](https://www.aliexpress.com/item/4001135653015.html)
 
-**5015 24V Blower Fans** (need 2)  
-Recommended: Good double-bearing 24V models (GDSTIME or similar)
-- **AliExpress (cheapest, ~$3-5 each):** [5015 24V Blower](https://www.aliexpress.com/item/1005007074653538.html)  
-- **Amazon option:** [Mellow Style](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0FXGKP3M9) — ~$13–16 each
-
-**4020 24V Hotend Fan** (Sunon MagLev preferred)
-- **AliExpress (best price):** [Sunon 4020 24V MagLev](https://www.aliexpress.com/item/1005003403933051.html) — ~$4–8  
-- **Amazon Genuine Sunon:** [Direct link](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX) — ~$9–12
+- **4020 24V Hotend Fan** – Sunon MagLev (quietest)  
+  [AliExpress Direct](https://www.aliexpress.com/item/1005003403933051.html) — ~$5–8
 
 ### Hardware
+- **M3×20mm Flat Head Screws** (need 8)  
+  Search on AliExpress "M3x20 flat head screw" — ~$2–4 for 50pcs
 
-**M3×20mm Flat Head Screws** (need 8)
-- **AliExpress:** Search "M3x20 flat head" (~$2-4 for 50pcs)  
-- **Amazon:** [100-pack Stainless](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64) — ~$8–10
-
-**JST 1.25mm Connectors** (optional)
-- **AliExpress:** [JST 1.25 kit](https://www.aliexpress.com/w/wholesale-jst-1.25-connector.html) — very cheap  
-- **Amazon:** [30 Pairs](https://www.amazon.com/Letool%C2%AE30-1-25mm-Female-Connector-Cables/dp/B013JRWCBU) — ~$7–9
+- **JST 1.25mm Connectors** (optional, pack of 20–30)  
+  [AliExpress Direct](https://www.aliexpress.com/item/1005006xxxxxxx.html) — ~$3–5 (search "JST 1.25 2pin")
 
 **Recommendation:** Use **AliExpress** for lowest price if you can wait 2-3 weeks. Use **Amazon** for fast shipping.
 
