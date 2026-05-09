@@ -22,28 +22,30 @@ From: [FatBurner on Printables](https://www.printables.com/model/887597)
 
 **Print Settings:** Bases & Ducts in PETG, Covers in PLA/PETG.
 
-## Shopping List (Direct Amazon Links - May 2026)
+## Shopping List (Best Prices - AliExpress + Amazon)
 
 ### Fans
 
 **5015 24V Blower Fans** (need 2)  
-Recommended: Mellow Exclusive Sunon-style (double bearing, reliable for 3D printers, sold by reputable 3D printer accessory sellers)  
-- [Option 1 (Best seller)](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0FXGKP3M9) — ~$13–16 each  
-- [Option 2](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0GCCH43CZ) — similar price
+Recommended: Good double-bearing 24V models (GDSTIME or similar)
+- **AliExpress (cheapest, ~$3-5 each):** [5015 24V Blower](https://www.aliexpress.com/item/1005007074653538.html)  
+- **Amazon option:** [Mellow Style](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0FXGKP3M9) — ~$13–16 each
 
-**4020 24V Hotend Fan** (need 1, Sunon MagLev preferred for quiet)  
-- [Recommended Genuine Sunon](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX) — ~$9–12
+**4020 24V Hotend Fan** (Sunon MagLev preferred)
+- **AliExpress (best price):** [Sunon 4020 24V MagLev](https://www.aliexpress.com/item/1005003403933051.html) — ~$4–8  
+- **Amazon Genuine Sunon:** [Direct link](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX) — ~$9–12
 
 ### Hardware
 
-**M3×20mm Flat Head / Countersunk Screws** (need 8)  
-- [Recommended 100-pack Stainless Steel](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64) — ~$8–10  
-- Alternative Phillips: [uxcell 50-pack](https://www.amazon.com/uxcell-M3x20mm-Stainless-Countersunk-Phillips/dp/B01KYHADBY)
+**M3×20mm Flat Head Screws** (need 8)
+- **AliExpress:** Search "M3x20 flat head" (~$2-4 for 50pcs)  
+- **Amazon:** [100-pack Stainless](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64) — ~$8–10
 
-**JST 1.25mm Connectors** (optional, for clean wiring)  
-- [Recommended 30 Pairs](https://www.amazon.com/Letool%C2%AE30-1-25mm-Female-Connector-Cables/dp/B013JRWCBU) — ~$7–9
+**JST 1.25mm Connectors** (optional)
+- **AliExpress:** [JST 1.25 kit](https://www.aliexpress.com/w/wholesale-jst-1.25-connector.html) — very cheap  
+- **Amazon:** [30 Pairs](https://www.amazon.com/Letool%C2%AE30-1-25mm-Female-Connector-Cables/dp/B013JRWCBU) — ~$7–9
 
-All links are to well-reviewed Amazon listings suitable for 3D printer upgrades.
+**Recommendation:** Use **AliExpress** for lowest price if you can wait 2-3 weeks. Use **Amazon** for fast shipping.
 
 ## Tools Needed
 - Soldering iron (or wire strippers + heat shrink)
