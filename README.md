@@ -25,18 +25,25 @@ From: [FatBurner on Printables](https://www.printables.com/model/887597)
 ## Shopping List (Direct Amazon Links - May 2026)
 
 ### Fans
-- **2× 5015 24V Blower Fans** (Mellow Sunon-style recommended)  
-  [Direct Link](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0FXGKP3M9) — **~$13–16 each**
 
-- **1× 4020 24V Hotend Fan** (Sunon MagLev preferred)  
-  [Direct Link](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX) — **~$9–12**
+**5015 24V Blower Fans** (need 2)  
+Recommended: Mellow Exclusive Sunon-style (double bearing, reliable for 3D printers, sold by reputable 3D printer accessory sellers)  
+- [Option 1 (Best seller)](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0FXGKP3M9) — ~$13–16 each  
+- [Option 2](https://www.amazon.com/Exclusive-Printer-Bearing-Centrifugal-Cooling/dp/B0GCCH43CZ) — similar price
+
+**4020 24V Hotend Fan** (need 1, Sunon MagLev preferred for quiet)  
+- [Recommended Genuine Sunon](https://www.amazon.com/SUNON-MF40202V2-1000U-A99-6000-RPM-Vapo/dp/B07B66DJYX) — ~$9–12
 
 ### Hardware
-- **8× M3×20mm Flat Head Screws**  
-  [Direct Link](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64) — **~$8–10** (100-pack)
 
-- **JST 1.25mm Connectors** (optional, pack of 30)  
-  [Direct Link](https://www.amazon.com/Letool%C2%AE30-1-25mm-Female-Connector-Cables/dp/B013JRWCBU) — **~$7–9**
+**M3×20mm Flat Head / Countersunk Screws** (need 8)  
+- [Recommended 100-pack Stainless Steel](https://www.amazon.com/Countersunk-Socket-Screws-100-piece-Stainless/dp/B01HBN0X64) — ~$8–10  
+- Alternative Phillips: [uxcell 50-pack](https://www.amazon.com/uxcell-M3x20mm-Stainless-Countersunk-Phillips/dp/B01KYHADBY)
+
+**JST 1.25mm Connectors** (optional, for clean wiring)  
+- [Recommended 30 Pairs](https://www.amazon.com/Letool%C2%AE30-1-25mm-Female-Connector-Cables/dp/B013JRWCBU) — ~$7–9
+
+All links are to well-reviewed Amazon listings suitable for 3D printer upgrades.
 
 ## Tools Needed
 - Soldering iron (or wire strippers + heat shrink)
